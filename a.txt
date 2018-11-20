@@ -3,12 +3,26 @@ hello
 this
 is
 
-a new file
+a new-ish file
 
 that i will use to 
 
 
 practice
+.
+.
+.
+.
+\.\
+.\.\..\\
+.
+.
+.
+
+.
+.
+.
+
 
 backemrging etc
 
