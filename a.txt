@@ -3,12 +3,26 @@ hello
 this
 is
 
-a new file
+a new-ish file
 
 that i will use to 
 
 
 practice
+.
+.
+.
+.
+\.\
+.\.\..\\
+.
+.
+.
+
+.
+.
+.
+
 
 backemrging etc
 
@@ -23,3 +37,6 @@ a casd ad vfe fa osdf afoujah
 dofi aldija sdqsdq pd 
  asd falkj a;dlaif lskfha 
 poidajfa lk flkjh lai
+
+sdawd a sad aw  da  seconf commit of the long branch
+2ad5172... second commit, should be conflicts
